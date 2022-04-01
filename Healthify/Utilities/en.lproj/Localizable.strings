@@ -1,0 +1,22 @@
+/* 
+  Localizable.strings
+  Healthify
+
+  Created by Blessy Elizabeth Saini on 26/03/2022.
+  
+*/
+
+/* Steps Title */
+"steps" = "Steps";
+
+/*Achievements*/
+"achievements" = "Achievements";
+
+/*No achievements yet*/
+"noAchievementsYet" = "No achievements yet";
+
+/*Keep walking!*/
+"keepWalking" = "Keep walking!";
+
+/*Goal achievement*/
+"goalAchievement" = "Goal achievement";
